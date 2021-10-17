@@ -1,0 +1,11 @@
+epoc 50 bndry loss 4.114195, f loss 0.001412
+epoc 100 bndry loss 3.802523, f loss 0.002026
+epoc 150 bndry loss 3.705448, f loss 0.002230
+epoc 200 bndry loss 3.582164, f loss 0.002112
+epoc 50 bndry loss 3.977656, f loss 0.014520
+epoc 100 bndry loss 3.669607, f loss 0.008596
+epoc 150 bndry loss 3.292317, f loss 0.005007
+epoc 50 bndry loss 4.701059, f loss 0.006794
+epoc 100 bndry loss 4.304435, f loss 0.005091
+epoc 150 bndry loss 5.155258, f loss 0.002598
+epoc 200 bndry loss 4.187823, f loss 0.002591
